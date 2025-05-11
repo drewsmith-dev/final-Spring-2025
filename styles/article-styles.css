@@ -1,0 +1,13 @@
+.header-image {
+    grid-column: 1 / span 6;
+}
+
+.article-title {
+    grid-column: 1 / span 6;
+    margin: 20px 20px 0px 20px;
+}
+
+.article-content {
+    grid-column: 1 / span 6;
+    margin: 0 20px;
+}
